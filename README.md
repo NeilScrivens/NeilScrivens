@@ -1,6 +1,6 @@
 👋 Hi, I’m @NeilScrivens
 
-🌱 I’m currently learning Terraform but currently interested in IaC generally. 
+🌱 I’m currently learning Terraform but interested in IaC generally. 
 
 I have previous experience with Vagrant, Ansible, Chef and Puppet.
 
