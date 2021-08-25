@@ -1,5 +1,5 @@
 👋 Hi, I’m @NeilScrivens
-🌱 I’m currently learning Terraform but interested in IaC generally. 
+🌱 I’m currently learning Terraform but currently interested in IaC generally. 
 I have previous experience with Vagrant, Ansible, Chef and Puppet.
 As I work more within hybrid infrastructure environments I would like to expand my knowledge to include AWS CloudFormation, Azure Resource Manager and SaltStack
 I’m a big fan of Python, both Monty and Guido Van Rossum's and always willing to collaborate on projects. 
